@@ -2,6 +2,8 @@
 
 A simple Pac-man style game written in Javascript, using HTML Canvas. It's complete enough to be fun to play, however there are some more things that it needs to be 'finished'.
 
+![Screenshot](/mspac_screenshot.png?raw=true "Screenshot")
+
 Levels can be created with Tiled.
 
 Pixel dimensions of the screen are 224 x 288
