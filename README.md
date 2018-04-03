@@ -2,6 +2,8 @@
 
 Pac-man style game written in Javascript, using HTML Canvas. It's complete enough to be fun to play, however there are some more things that it needs to be 'finished'.
 
+Playable version hosted [here](http://opti.isovega.net/MsPacMan/pacman.html)
+
 ![Screenshot](/mspac_screenshot.png?raw=true "Screenshot")
 
 Pixel dimensions of the screen are 224 x 288
