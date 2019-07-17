@@ -1,4 +1,3 @@
-
 // performance logging
 var P_array = [];
 var P_draw_time = "0.000";
